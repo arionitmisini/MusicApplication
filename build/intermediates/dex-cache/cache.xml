@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_a6b098363601cf606454cdedda260be4771da567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_dd4fed304f013522c02067a6ff9fd4f24cf8a6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_c62f62de1ce5a9612ef3b141ffa18b2b78250199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_29dfa9aedefd2d848b256f504bacbf191ea71df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_50d40889afa97f8e2e8e30fad34016bfcb5d317e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_b8461a7747c48caec2965c52e76a2358129d711b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_a280d670b9a925e1c9e83b08ae80fae2337d42b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_90334c058dbae1d661870749a21af965c40460b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e969707844eef71fa79ed796b2f19351f1d86d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_960d41d50e11ba73843993a76699623b59bd9459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_b69b8ec7e121bff770b90e64b107bc73d3fb4c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_400ab5b50fdfef1299f0a83b496b60d02c77cc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_f9d1d11d6492e0dc142f3d1c952d007ca6de254a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_21db49742689aee547665a25daca93159dc16d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_08388d07c0838427bab394def13bc8f708d80661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_378836a1165f3f4c53ee82aaf6683dd5facd6f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Arioniti\Downloads\MusicApplication\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_2d26a406d317dc2a90f86ef6a418565d9f1abe12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_6721e40acab96714e9772744b30e9b2fb25567d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Arioniti\AndroidStudioProjects\MusicApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_15cc96744b1239a993ab2065b1a76be9147b8ee5.jar" />
+    </item>
+
+</items>
