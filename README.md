@@ -8,5 +8,7 @@ This app is available from Android 4.4 and up.
 * [Java](https://java.com) - Programming Language
 * [Android Studio](https://developer.android.com/studio/intro/index.html) - IDE
 * [Android](https://developer.android.com/studio/intro/index.html) - SDK
+### Algorithm
+* [Least Significant Digit](https://www.computerhope.com/jargon/l/leastsd.htm) - Sorting Algorithm
 
 
